@@ -14,8 +14,10 @@ usage in ubuntu:
 
 paste code in a custom shortcut 
   "settings -> keyboard -> View and Customize Shortcuts"
+  
 
 notes:
+favorite shortcut to use: super+v key
 the sleep prevents the "windows/super" key being stuck, probably the clear modifiers does not clear this key
 
 sources:
